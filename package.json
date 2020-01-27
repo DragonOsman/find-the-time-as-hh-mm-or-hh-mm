@@ -1,0 +1,32 @@
+{
+  "name": "find-the-time-as-hh-mm-or-hh-mm-task",
+  "version": "1.0.0",
+  "description": "Javascript.info task \"Find the time in hh:mm or hh-mm\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/find-the-time-as-hh-mm-or-hh-mm.git"
+  },
+  "keywords": [
+    "javascript-info",
+    "javascript.info-task",
+    "regexp",
+    "find-time-strings",
+    "ranges-and-sets"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/find-the-time-as-hh-mm-or-hh-mm/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/find-the-time-as-hh-mm-or-hh-mm#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
